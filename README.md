@@ -1,2 +1,2 @@
 ## Movie website
-![imgae Alt]()
+![imgae Alt](https://github.com/Dheena-B/sipderman-responsive/blob/main/spiderman.jpg?raw=true)
